@@ -1,6 +1,6 @@
 # :left_speech_bubble:Live-Chat-Web-App :speech_balloon:
 
-*This repo was copied from a class project repo, so all commit messages are not shown here.*  
+*This repo was copied from a class project repo, so all commit histories are not shown here.*  
 *Copyright: James Jiang, UBC CPEN 322 Faculty*
 
 - This app supports multiple users to chat in different chat rooms, and all data are stored locally in MongoDB to mimic an online database.
